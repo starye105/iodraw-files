@@ -31,10 +31,10 @@
         <mxCell id="Xht_BytMdqdBY84pLdAJ-12" value="保证金余额是否大于保证金抢单策略配置金额" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="373.5" y="-655" width="109" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="Xht_BytMdqdBY84pLdAJ-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xht_BytMdqdBY84pLdAJ-12">
+        <mxCell id="Xht_BytMdqdBY84pLdAJ-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xht_BytMdqdBY84pLdAJ-12" target="Xht_BytMdqdBY84pLdAJ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="383" y="-448" as="sourcePoint" />
-            <mxPoint x="433" y="-498" as="targetPoint" />
+            <mxPoint x="473" y="-766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
